@@ -10,7 +10,7 @@ This repository provides a **trained forward model** for predicting the thermal 
 ### Inputs / Output
 
 **Inputs**
-- Alloy composition (encoded elemental fractions/percentages consistent with the dataset feature format)
+- Alloy composition
 - Temperature **T (K)**
 
 **Output**
